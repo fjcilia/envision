@@ -1,0 +1,22 @@
+[Unit]
+Description=Envision's distributed currency daemon
+After=network.target
+
+[Service]
+User=envisioncore
+Group=envisioncore
+
+Type=forking
+PIDFile=/var/lib/envisiond/envisiond.pid
+ExecStart=/usr/bin/envisiond -daemon -pid=/var/lib/envisiond/envisiond.pid \
+-conf=/etc/envisioncore/envision.conf -datadir=/var/lib/envisiond -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

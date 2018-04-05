@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/envision_bg.qm</file>
+        <file alias="de">locale/envision_de.qm</file>
+        <file alias="en">locale/envision_en.qm</file>
+        <file alias="es">locale/envision_es.qm</file>
+        <file alias="fi">locale/envision_fi.qm</file>
+        <file alias="fr">locale/envision_fr.qm</file>
+        <file alias="it">locale/envision_it.qm</file>
+        <file alias="ja">locale/envision_ja.qm</file>
+        <file alias="pl">locale/envision_pl.qm</file>
+        <file alias="pt">locale/envision_pt.qm</file>
+        <file alias="ru">locale/envision_ru.qm</file>
+        <file alias="sk">locale/envision_sk.qm</file>
+        <file alias="sv">locale/envision_sv.qm</file>
+        <file alias="vi">locale/envision_vi.qm</file>
+        <file alias="zh_CN">locale/envision_zh_CN.qm</file>
+        <file alias="zh_TW">locale/envision_zh_TW.qm</file>
+    </qresource>
+</RCC>

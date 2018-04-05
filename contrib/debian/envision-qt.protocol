@@ -1,0 +1,11 @@
+[Protocol]
+exec=envision-qt '%u'
+protocol=envision
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

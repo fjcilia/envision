@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Envision
+Comment=Envision P2P Cryptocurrency
+Comment[fr]=Envision, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Envision, eşten eşe kriptografik sanal para birimi
+Exec=envision-qt %u
+Terminal=false
+Type=Application
+Icon=envision128
+MimeType=x-scheme-handler/envision;
+Categories=Office;Finance;

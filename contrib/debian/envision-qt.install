@@ -1,0 +1,6 @@
+usr/local/bin/envision-qt usr/bin
+share/pixmaps/envision32.xpm usr/share/pixmaps
+share/pixmaps/envision16.xpm usr/share/pixmaps
+share/pixmaps/envision128.png usr/share/pixmaps
+debian/envision-qt.desktop usr/share/applications
+debian/envision-qt.protocol usr/share/kde4/services/
