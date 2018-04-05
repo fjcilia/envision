@@ -8,7 +8,7 @@ packages:
 - "faketime"
 reference_datetime: "2017-01-01 00:00:00"
 remotes:
-- "url": "https://github.com/envisionpay/envision-detached-sigs.git"
+- "url": "https://github.com/bmyatt/envision-detached-sigs.git"
   "dir": "signature"
 files:
 - "envision-osx-unsigned.tar.gz"

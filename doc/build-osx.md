@@ -40,7 +40,7 @@ NOTE: Building with Qt4 is still supported, however, doing so could result in a 
 
 1. Clone the GitHub tree to get the source code and go into the directory.
 
-        git clone https://github.com/envisionpay/envision.git
+        git clone https://github.com/bmyatt/envision.git
         cd envision
 
 2.  Build Envision Core:

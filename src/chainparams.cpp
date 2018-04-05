@@ -146,7 +146,7 @@ public:
         vSeeds.push_back(CDNSSeedData("envision.org", "dnsseed.envision.org"));
         vSeeds.push_back(CDNSSeedData("envisiondot.io", "dnsseed.envisiondot.io"));
         vSeeds.push_back(CDNSSeedData("masternode.io", "dnsseed.masternode.io"));
-        vSeeds.push_back(CDNSSeedData("envisionpay.io", "dnsseed.envisionpay.io"));
+        vSeeds.push_back(CDNSSeedData("bmyatt.io", "dnsseed.bmyatt.io"));
 
         // Envision addresses start with 'X'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,76);

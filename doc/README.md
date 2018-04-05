@@ -24,9 +24,9 @@ Drag Envision-Qt to your applications folder, and then run Envision-Qt.
 
 ### Need Help?
 
-* See the [Envision documentation](https://envisionpay.atlassian.net/wiki/display/DOC)
+* See the [Envision documentation](https://bmyatt.atlassian.net/wiki/display/DOC)
 for help and more information.
-* Ask for help on [#envisionpay](http://webchat.freenode.net?channels=envisionpay) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=envisionpay).
+* Ask for help on [#bmyatt](http://webchat.freenode.net?channels=bmyatt) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=bmyatt).
 * Ask for help on the [EnvisionTalk](https://envisiontalk.org/) forums.
 
 Building
@@ -58,7 +58,7 @@ The Envision Core repo's [root README](/README.md) contains relevant information
 
 ### Resources
 * Discuss on the [EnvisionTalk](https://envisiontalk.org/) forums, in the Development & Technical Discussion board.
-* Discuss on [#envisionpay](http://webchat.freenode.net/?channels=envisionpay) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=envisionpay).
+* Discuss on [#bmyatt](http://webchat.freenode.net/?channels=bmyatt) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=bmyatt).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

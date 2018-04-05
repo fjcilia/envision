@@ -4,11 +4,11 @@
 
 Envision Core version 0.12.0 is now available from:
 
-  https://envisionpay.io/downloads
+  https://bmyatt.io/downloads
 
 Please report bugs using the issue tracker at github:
 
-  https://github.com/envisionpay/envision/issues
+  https://github.com/bmyatt/envision/issues
 
 
 How to Upgrade
